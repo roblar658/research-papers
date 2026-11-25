@@ -1,4 +1,4 @@
-##Symplectic Discrepancy-Lattice Clustering 
+## Symplectic Discrepancy-Lattice Clustering 
 
 Corresponding file: SDGClustering.py
 
