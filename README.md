@@ -1,3 +1,13 @@
+## Cluster overview (>1000 pages about 200 existing clustering algorithms, containing at least 400 new mathematical results in computer science)
+
+Corresponding monograph compiler:
+
+https://github.com/roblar658/clusterOverview/tree/main/monograph/
+
+Code and datasets used for benchmarking:
+
+https://github.com/roblar658/clusterOverview/
+
 ## Chord bisector clustering
 
 Correspinding file : chordBisectClustering.py
